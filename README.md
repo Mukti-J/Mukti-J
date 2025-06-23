@@ -39,7 +39,7 @@
 <div>
 </div>
 
-### 📊 GitHub Stats
+###
 <br clear="both">
 
 <div align="center">

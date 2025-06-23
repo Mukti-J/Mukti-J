@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="200" src="https://id.picmix.com/stamp/Kaneki-Ken-405797"  />
 
 ###
 

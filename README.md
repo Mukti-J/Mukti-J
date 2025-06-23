@@ -1,8 +1,16 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+![Header](./assets/github-header-image.png)
 
-###
+## 🚀 About Me
 
-<img align="right" height="200" src=assets\picmix.com_405797.gif  />
+- 🎓 Passionate Computer Science student at UKSW Salatiga.
+- 🤖 Expertise in machine learning, full-stack development, and system design.
+- 💡 I love building innovative solutions that make a difference.
+- 🧑‍💻 Always learning and exploring new technologies.
+
+---
+
+
+<img align="right" height="200" src=assets/picmix.com_405797.gif />
 
 ###
 
@@ -22,13 +30,17 @@
 
 ###
 
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+</div>
+<div>
 </div>
 
-###
-
+---
+### 📊 GitHub Stats
 <br clear="both">
 
 <div align="center">
